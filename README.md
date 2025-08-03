@@ -32,11 +32,14 @@ This project is a **Power BI Dashboard** built for analyzing pizza sales data fr
 ---
 
 ### 🔗 Preview
-    📌HOME PAGE
-     ![PIZZA SALES REPORT_page-0001](Pizza Sales Report Images/PIZZA%SALES%REPORT_page-0001.jpg)
+   
+### 🏠 1. Home / Sales Overview Page  
+[![Home](Photos/Home.jpg)](Photos/Home.jpg)
 
-    📌BEST/WORST SELLERS PAGE
-     ![PIZZA SALES REPORT_page-0002](Pizza Sales Report Images/PIZZA%SALES%REPORT_page-0002.jpg)
+### 🌟 2. Best & Worst Sellers Page  
+[![Best/Worst Sellers](Photos/Bestworstsellers.jpg)]
+
+     
     
      
 ---
