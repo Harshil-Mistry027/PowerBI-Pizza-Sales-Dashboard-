@@ -32,7 +32,9 @@ This project is a **Power BI Dashboard** built for analyzing pizza sales data fr
 ---
 
 ### 🔗 Preview
-    [📄 View Full Report (PDF)](./PIZZA%20SALES%20REPORT.pdf)
+    📌HOME PAGE
+    
+     
 
 
 ---
